@@ -1,0 +1,1 @@
+Seed files for Conway’s game of life.
